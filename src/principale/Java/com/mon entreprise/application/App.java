@@ -6,6 +6,7 @@ package com.mycompany.app;
  */
 public class App
 {
+	
 	/**
 	 * Constante du message Hello World!
 	 */
