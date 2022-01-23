@@ -111,7 +111,6 @@
                     <generatePdf>false</generatePdf>
                     <generateXml>true</generateXml>
                 </configuration>
-                <executions>
                     <execution>
                         <phase>site</phase>
                         <goals>
